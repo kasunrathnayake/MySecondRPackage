@@ -1,0 +1,1 @@
+useDynLib(MySecondRPackage, .registration=TRUE)export(reglin, reglin.pvalue)export(reglinC, reglinpvalueC)
